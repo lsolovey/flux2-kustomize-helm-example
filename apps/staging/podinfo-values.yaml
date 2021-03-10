@@ -13,3 +13,4 @@ spec:
     ingress:
       hosts:
         - podinfo.staging
+    replicaCount: 2
